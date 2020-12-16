@@ -1,0 +1,42 @@
+body{
+   overflow:hidden;
+   
+}
+.container{
+    margin-left:450px;
+    
+    background-color:rgb(240, 231, 231);
+    width:500px;
+    padding:10px;
+    text-align:center;
+    border-radius:10px;
+}
+
+button{
+    background-color:blue;
+    height:30px;
+    font-weight: bold;
+    color:white;
+    border:none;
+    border-radius:5px;
+}
+
+form{
+    padding:20px;
+}
+input{
+    height:30px;
+    width:360px;
+}
+
+label{
+ font-weight:bold;
+ position: absolute;
+ margin-left:-180px;
+}
+
+ #submit{
+    background-color: green;
+    position: relative;
+    border:none;
+}
